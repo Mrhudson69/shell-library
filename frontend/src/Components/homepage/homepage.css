@@ -1,0 +1,28 @@
+
+.homepage {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .success-message {
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #4CAF50;
+    background-color: #e0ffe0;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .success-message h2 {
+    color: #4CAF50;
+    font-size: 1.5rem;
+  }
+  
+  .success-message p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
